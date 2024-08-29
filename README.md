@@ -2,6 +2,6 @@
 - I’m interested in becoming a data scientist.
 - I’m currently pursuing Btech at Lovely Professional University.
 - How to reach me:
-Gmail:killadaneeru@gmail.com
+Gmail:killadaniru@gmail.com
 Linkedin:www.linkedin.com/in/killada-neeraja-
 
