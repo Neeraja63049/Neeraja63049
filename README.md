@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Neeraja63049
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, I’m @Neeraja63049
+- I’m interested in becoming a data scientist.
+- I’m currently pursuing Btech at Lovely Professional University.
+- How to reach me:
+Gmail:killadaneeru@gmail.com
+Linkedin:www.linkedin.com/in/killada-neeraja-
 
-<!---
-Neeraja63049/Neeraja63049 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
